@@ -1,0 +1,35 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+   <meta charset='utf-8'>
+    <title>This example page 2</title>
+  </head>
+  <body>
+    <p>Will Lager - will.lager@rjionline.org</p>
+     
+    <p>This is totally a joke. Yes, a joke. Keep it clean.</p>
+    
+    <a href="mailto:will.lager@rjionline.org"><img src="img/will_at_museum3.jpg"></a>
+
+    <a href=""><img src=""></a>
+
+    <ul>
+      <li>Slash/Back</li>
+      <li>The Thing</li>
+      <li>Everything Everywhere All At Once</li>
+      <li>Fury Road</li>
+      <li>I forgot</li>
+
+
+    </ul>
+
+
+    <a href="example.html">link within your site</a>
+    <a href="https://rjionline.org/">link outside now</a>
+
+
+   
+  </body>
+
+  
+</html>
